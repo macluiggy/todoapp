@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    border: solid 5px rgb(19, 75, 19);
+    padding: 15px;
+    border-radius: 50px;
+    display: inline-block;
+    background: linear-gradient(rgb(102, 23, 204), rgb(255, 65, 65));
+}
